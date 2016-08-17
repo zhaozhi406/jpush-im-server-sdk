@@ -9,8 +9,9 @@ import requests
 import base64
 import json
 
-jpush_app_key = "c2f3adaeced410ee9cf8feca"
-jpush_master_secret = "e8aaa4505b45fb7a97cf1408"
+#your app key and secret
+jpush_app_key = "aaaaaaaaabbbbbbbbccc"
+jpush_master_secret = "ddddddddeeeeeeeeeffffff"
 
 class JMessageResult(object):
     class ErrCode(object):
